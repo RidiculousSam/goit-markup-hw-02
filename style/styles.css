@@ -10,6 +10,8 @@ a {
 }
 
 .list {
+  font-family: "Roboto";
+  font-style: normal;
   list-style: none;
 }
 .logo-main {
@@ -112,8 +114,6 @@ a {
 /*------------------------------------FEATURES----------------------------------- */
 
 .features-list-header {
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -181,8 +181,6 @@ a {
   background: #2f303a;
 }
 .footer-map {
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -190,8 +188,6 @@ a {
   color: rgb(255, 255, 255);
 }
 .link {
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -205,8 +201,6 @@ a {
   display: none;
 }
 .portfolio-rubrication-button {
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
