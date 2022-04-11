@@ -201,7 +201,8 @@ a {
   display: none;
 }
 .portfolio-rubrication-button {
-  font-weight: 500;
+  font-family: "Roboto";
+  font-weight: 600;
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
